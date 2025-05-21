@@ -4,7 +4,14 @@ A simple and responsive **Login and Registration Page** built using **HTML**, **
 
 This UI can be used as a frontend for authentication systems.
 
-![image](https://github.com/user-attachments/assets/bab946fc-fc70-4575-87bb-27469a80adbb)
+Login View
+
+![Screenshot 2025-05-21 215916](https://github.com/user-attachments/assets/079738be-dc37-4e59-9e49-24b62f403498)
+
+Register View
+
+![Screenshot 2025-05-21 215935](https://github.com/user-attachments/assets/42088fe6-a4b4-4222-a495-7dafb699b3dc)
+
 
 ## 🚀 Features
 
